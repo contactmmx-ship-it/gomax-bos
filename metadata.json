@@ -1,0 +1,6 @@
+{
+  "name": "GoMax BOS",
+  "description": "Enterprise Business Operating System containing the GoMax brand roadmap, dealer relations, and 22 master technical SOPs with speech synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
